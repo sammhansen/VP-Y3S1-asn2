@@ -1,4 +1,4 @@
-VISUAL PROGRAMMING Y3S1 Assignment 2
+- VISUAL PROGRAMMING Y3S1 Assignment 2
 
 > When prompted for the input file, enter `input/input.csv` , or provide a file path relative to the project's working directory
 
