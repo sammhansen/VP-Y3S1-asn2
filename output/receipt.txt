@@ -1,0 +1,10 @@
+--- Shopping Receipt ---
+ItemId   Name       Qty    Price      Total
+10011    Avocado      3    20.00      60.00
+10012    Tomato       6     5.00      30.00
+10013    Orange       9    15.50     139.50
+10014    Mango        6    25.00     150.00
+
+Subtotal:   379.50
+VAT (16%):  60.72
+Grand Total:440.22
